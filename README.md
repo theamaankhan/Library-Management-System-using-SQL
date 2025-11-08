@@ -10,5 +10,11 @@ Advanced SQL Queries: Develop complex queries to analyze and retrieve specific d
 
 ##Project Structure-
 1. Database Setup.
+   ## 🧩 Entity Relationship Diagram
+
+<p align="center">
+  <img src="https://github.com/theamaankhan/Library-Management-System-using-SQL/blob/main/Screenshot%202025-11-08%20102458.png" width="600">
+</p>
+
 2. Database Creation: Created a database named Library_Management_System.
 3.Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
